@@ -1,1 +1,1 @@
-# Readixir
+# pdf-summarizer-app
